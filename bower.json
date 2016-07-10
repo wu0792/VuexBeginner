@@ -1,0 +1,15 @@
+{
+  "name": "vuex",
+  "main": "dist/vuex.js",
+  "description": "demo for Vuex.js",
+  "authors": "wu0792",
+  "license": "MIT",
+  "ignore": [
+    ".gitignore",
+    ".eslintrc",
+    ".babelrc",
+    "*.json",
+    "*.md",
+    "*.yml"
+  ]
+}
